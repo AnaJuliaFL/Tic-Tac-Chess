@@ -6,8 +6,8 @@ por dois jogadores ou contra o computador.
 Sofia Sampaio Lacerda
 12611776
 
-Ana Julia
-?
+Ana Julia Funchal Lopes
+12717440
 */
 #include <stdlib.h>
 #include <stdio.h>
